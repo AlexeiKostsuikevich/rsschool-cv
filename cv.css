@@ -163,7 +163,14 @@ h3{
     list-style-type: none;
 }
 .item{
-    padding: 20px;
+    padding: 20px 40px;
+}
+.year{
+    padding: 20px 60px;
+    list-style-type: none;
+}
+#footer_img_logo{
+    padding: 0px 0px 0px 140px;
 }
 .item:hover{
     opacity: 0.75;
